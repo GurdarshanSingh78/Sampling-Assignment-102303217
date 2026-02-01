@@ -67,5 +67,5 @@ The table below compares the accuracy of models trained on the **Full Dataset** 
 * **Environment:** Google Colab / VS Code
 
 ---
-**Submitted By:** [Gurdarshan Singh]
-**Roll Number:** [102303217]
+Submitted By: **Gurdarshan Singh**
+Roll Number: **102303217**
