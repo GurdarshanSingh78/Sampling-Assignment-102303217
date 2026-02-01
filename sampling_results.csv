@@ -1,0 +1,6 @@
+,No Sampling (Full Data),Simple Random,Systematic,Stratified,Cluster,Bootstrap
+M1 (Logistic Regression),91.36,92.15,89.79,91.1,90.31,92.41
+M2 (Decision Tree),99.48,98.69,99.48,98.17,97.12,96.86
+M3 (Random Forest),100.0,99.21,99.74,99.74,99.21,99.21
+M4 (SVM),67.54,67.02,66.75,70.16,66.23,66.23
+M5 (KNN),98.17,95.55,96.07,96.6,93.19,94.76
